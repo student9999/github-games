@@ -13,3 +13,10 @@ Here is how you play the game:
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
+
+
+## Instructions
+
+1. Use left and right arrow keys to move blocks
+2. Use up and down arrow keys to rotate blocks
+3. Stack blocks without holes
